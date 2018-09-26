@@ -1,0 +1,5 @@
+x = input("x : ")
+x = int(x) 
+y = input("y: ")
+y = int(y)
+print("Addition of x and y : ",x+y)
